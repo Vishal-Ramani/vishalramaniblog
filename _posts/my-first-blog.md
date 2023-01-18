@@ -1,6 +1,6 @@
 ---
 id: nh-002
-title: ''
+title: 'My first blog'
 date: 2023-01-16 09:01:00 +0100
 author: 'Vishal Ramani'
 layout: post
