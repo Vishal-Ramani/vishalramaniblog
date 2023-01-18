@@ -1,6 +1,6 @@
-# Blog from Niklas Heidloff - heidloff.net
+# Blog from Vishal Ramani
 
-This repo contains the blog from [Niklas Heidloff](https://heidloff.net), both the blog application as well as the blog data.
+This repo contains the blog from [Vishal Ramani](https://vishalramani.in), both the blog application as well as the blog data.
 
 <kbd><img src="assets/img/2023/01/IMG_2075.JPG" /></kbd>
 
