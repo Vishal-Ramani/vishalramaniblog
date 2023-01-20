@@ -30,7 +30,7 @@ description: >-
   Blog from Vishal Ramani, an IT professional focussing on development, advocacy and artificial intelligence. Vishal works at TCS, IBM and shares his Cloud, SRE, OpenSource and DevOps experience.
 
 github:
-  username: Vishal-Ramani
+  username: vishal-ramani
 twitter:
   username: vishalramani000
 social:
@@ -39,7 +39,7 @@ social:
     # The first element serves as the copyright owner's link
     - https://www.linkedin.com/in/vishalramani/
     - https://mobile.twitter.com/vishalramani000    
-    - https://github.com/Vishal-Ramani    
+    - https://github.com/vishal-ramani
 
 google_site_verification:               # fill in to your verification string
 # ↑ --------------------------
