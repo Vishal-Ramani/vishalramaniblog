@@ -5,7 +5,7 @@ Gemfile.lock
 ReadNik.md 
 
 # hidden files
-.*
+
 !.git*
 !.editorconfig
 !.nojekyll
